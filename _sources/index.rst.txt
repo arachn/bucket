@@ -9,11 +9,12 @@ Gen
     :caption: 地域选择
     :maxdepth: 1
 
-    云南昆明 <kunming>
+    昆明 <kunming>
+    攀枝花 <panzhihua>
 
 
 .. toctree::
-    :caption: 植物选择
+    :caption: 产物选择
     :maxdepth: 1
 
     芒果 <mango>
