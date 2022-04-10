@@ -84,7 +84,7 @@ jobs:
             cp -rf ${{ env.LATEST_DOCS_DIR }}/rtdpage/* ${{ env.DOCS_DIR }}/page
           fi
 
-      - name: Validate Docs
+      - name: Validate
         run: |
           if [ -z "$(ls -A ${{ env.DOCS_DIR }})" ]; then
             echo "Docs folder is empty. Aborting!"
