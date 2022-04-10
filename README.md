@@ -1,11 +1,6 @@
-﻿# [bucket](https://github.com/arachn/bucket) 
-####  www.arachn.com
-## [bucket简介](https://github.com/arachn/bucket/wiki) 
+﻿# [田园文档](https://github.com/zeergen/doc)
 
-活动式液体喷施装置
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://docs.zeergen.com)
 
-* 范围内喷施
-* 半径覆盖线
-* 园林保护
+[![Build Status](https://github.com/SoCXin/docs/workflows/doc/badge.svg)](https://github.com/SoCXin/docs/actions/workflows/build.yml)
 
-###  [精耕细织：Arachn智慧生态](https://github.com/arachn)
