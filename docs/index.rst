@@ -4,6 +4,13 @@ Gen
 =====================
 
 
+.. image:: ./images/sun.png
+    :target: https://baijiahao.baidu.com/s?id=1684053703901143014
+.. image:: ./images/temp.png
+    :target: https://baijiahao.baidu.com/s?id=1684053703901143014
+.. image:: ./images/rain.png
+    :target: https://baijiahao.baidu.com/s?id=1684053703901143014
+
 
 .. toctree::
     :caption: 地域选择
@@ -18,3 +25,4 @@ Gen
     :maxdepth: 1
 
     芒果 <mango>
+    樱桃 <cherry>

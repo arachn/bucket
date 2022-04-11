@@ -8,4 +8,4 @@
 
 
 .. image:: ./images/yunnan.png
-    :target: https://baijiahao.baidu.com/s?id=1723192528902762656&wfr=spider&for=pc
+    :target: https://baijiahao.baidu.com/s?id=1723192528902762656
