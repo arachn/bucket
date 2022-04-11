@@ -1,15 +1,8 @@
 .. _gen:
 
-Gen
-=====================
+Zeer Gen
+===============
 
-
-.. image:: ./images/sun.png
-    :target: https://baijiahao.baidu.com/s?id=1684053703901143014
-.. image:: ./images/temp.png
-    :target: https://baijiahao.baidu.com/s?id=1684053703901143014
-.. image:: ./images/rain.png
-    :target: https://baijiahao.baidu.com/s?id=1684053703901143014
 
 
 .. toctree::
