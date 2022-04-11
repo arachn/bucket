@@ -24,3 +24,6 @@
 
 .. image:: ./images/南方地区光照量.jpeg
     :target: https://baijiahao.baidu.com/s?id=1654086661792433863
+
+.. hint::
+    植物种植中，土壤和水都可以通过人力改变，积温可以利用大棚来解决，积光量是最关键的
