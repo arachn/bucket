@@ -21,9 +21,9 @@ Zee Gen
     树莓 <raspberry>
 
 .. toctree::
-    :caption: 人工干预
+    :caption: 人工优化
     :maxdepth: 1
 
-    根系 <root>
+    根系培育 <root>
 
 
