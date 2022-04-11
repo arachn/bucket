@@ -1,9 +1,8 @@
 .. _gen:
 
-Zeer Gen
+Zee Gen
 ===============
-
-
+``Generation`` ``Z世代`` ``1995-2009`` ``折耳根``
 
 .. toctree::
     :caption: 地域选择
