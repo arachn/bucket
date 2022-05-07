@@ -106,7 +106,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "zeerGen"
+html_title = "折耳根"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 # html_short_title = None
@@ -175,7 +175,7 @@ html_show_sphinx = False
 html_baseurl = "https://doc.zeergen.com"
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "zeerGen"
+htmlhelp_basename = "折耳根"
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -192,7 +192,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    ("index", "zeerGen.tex", u"zeerGen", u"zeerGen", "manual"),
+    ("index", "折耳根.tex", u"折耳根", u"折耳根", "manual"),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -220,7 +220,7 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [("index", "Qitas", u"zeerGen", [u"zeerGen"], 1)]
+man_pages = [("index", "Qitas", u"折耳根", [u"折耳根"], 1)]
 
 # If true, show URL addresses after external links.
 # man_show_urls = False
@@ -234,10 +234,10 @@ man_pages = [("index", "Qitas", u"zeerGen", [u"zeerGen"], 1)]
 texinfo_documents = [
     (
         "index",
-        "zeerGen",
-        u"zeerGen",
-        u"zeerGen",
-        "zeerGen",
+        "折耳根",
+        u"折耳根",
+        u"折耳根",
+        "折耳根",
         "One line description of project.",
         "Miscellaneous",
     ),

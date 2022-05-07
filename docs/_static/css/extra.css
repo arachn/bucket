@@ -555,12 +555,12 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 }
 
 .nav .nav-soc-b {
-  background-color: hsl(261, 90%, 49%);
+  background-color: hsl(261, 36%, 72%);
   font-weight: bold;
 }
 
 .nav .nav-soc-b:hover {
-  background-color: #0f426a;
+  background-color: #1389e2;
   font-weight: bold;
 }
 
@@ -570,12 +570,12 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 }
 
 .nav .nav-soc-g {
-  background-color: hsl(177, 90%, 53%);
+  background-color: hsl(177, 92%, 50%);
   font-weight: bold;
 }
 
 .nav .nav-soc-g:hover {
-  background-color: #83af9b;
+  background-color: #4f88b6;
   font-weight: bold;
 }
 
@@ -590,7 +590,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 }
 
 .nav .nav-soc-r:hover {
-  background-color: hsl(69, 88%, 56%);
+  background-color: hsl(56, 89%, 51%);
   font-weight: bold;
 }
 
