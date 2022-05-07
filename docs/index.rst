@@ -1,11 +1,11 @@
 .. _gen:
 
-Zee Gen
+Z Gen
 ===============
-``Zee Generation`` ``Z世代:1995-2009`` ``折耳根``
+``Ze Generation`` ``Z世代`` ``折耳根``
 
 .. toctree::
-    :caption: 地域选择
+    :caption: 地域偏好
     :maxdepth: 1
 
     昆明 <kunming>
@@ -13,17 +13,18 @@ Zee Gen
 
 
 .. toctree::
-    :caption: 产物偏好
+    :caption: 产物规划
     :maxdepth: 1
 
     芒果 <mango>
     樱桃 <cherry>
     树莓 <raspberry>
+    玫瑰 <rose>
+    绣球 <hydrangea>
 
 .. toctree::
-    :caption: 人工优化
+    :caption: 技术加持
     :maxdepth: 1
 
     根系培育 <root>
-
 
