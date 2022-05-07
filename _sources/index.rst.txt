@@ -1,11 +1,11 @@
 .. _gen:
 
-Z Gen
+Ze Gen
 ===============
 ``Ze Generation`` ``Z世代`` ``折耳根``
 
 .. toctree::
-    :caption: 地域偏好
+    :caption: 空间规划
     :maxdepth: 1
 
     昆明 <kunming>
@@ -26,5 +26,12 @@ Z Gen
     :caption: 技术加持
     :maxdepth: 1
 
-    根系培育 <root>
+    环境管理 <air>
+    根系管理 <root>
+
+.. toctree::
+    :caption: 管理模式
+    :maxdepth: 1
+
+    空间互换 <swap>
 
