@@ -30,8 +30,8 @@ Ze Gen
     根系管理 <root>
 
 .. toctree::
-    :caption: 管理模式
+    :caption: 经营模式
     :maxdepth: 1
 
-    空间互换 <swap>
+    田园空间 <space>
 
