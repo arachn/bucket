@@ -1,8 +1,10 @@
 .. _gen:
 
-Ze Gen
+折耳根
 ===============
-``Generation`` ``Z世代`` ``折耳根`` ``跟``
+``Generation`` ``Ze Gen`` ``Z世代`` ``折耳根``
+
+**扎根大西南，与时代同步**
 
 .. toctree::
     :caption: 根空间
@@ -26,7 +28,7 @@ Ze Gen
     :caption: 跟时代
     :maxdepth: 1
 
-    环境管理 <air>
+    环境改造 <env>
     根系管理 <root>
     田园空间 <space>
 
