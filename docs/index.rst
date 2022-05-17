@@ -2,10 +2,10 @@
 
 Ze Gen
 ===============
-``Ze Generation`` ``Z世代`` ``折耳根``
+``Generation`` ``Z世代`` ``折耳根`` ``跟``
 
 .. toctree::
-    :caption: 空间规划
+    :caption: 根空间
     :maxdepth: 1
 
     昆明 <kunming>
@@ -13,7 +13,7 @@ Ze Gen
 
 
 .. toctree::
-    :caption: 产物规划
+    :caption: 根选择
     :maxdepth: 1
 
     芒果 <mango>
@@ -23,15 +23,10 @@ Ze Gen
     绣球 <hydrangea>
 
 .. toctree::
-    :caption: 技术加持
+    :caption: 跟时代
     :maxdepth: 1
 
     环境管理 <air>
     根系管理 <root>
-
-.. toctree::
-    :caption: 经营模式
-    :maxdepth: 1
-
     田园空间 <space>
 
