@@ -15,7 +15,7 @@
 
 
 .. toctree::
-    :caption: 根选择
+    :caption: 根管理
     :maxdepth: 1
 
     芒果 <mango>
@@ -29,6 +29,6 @@
     :maxdepth: 1
 
     环境改造 <env>
-    根系管理 <root>
-    田园空间 <space>
+    田园共享 <space>
+    农用装备 <robot>
 
