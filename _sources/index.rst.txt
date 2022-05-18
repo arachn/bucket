@@ -6,13 +6,17 @@
 
 **扎根大西南，与时代同步**
 
+.. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
+    :target: https://github.com/zeergen/doc/actions
+
 .. toctree::
     :caption: 根空间
     :maxdepth: 1
 
     昆明 <kunming>
+    白色 <baise>
+    钦州 <qinzhou>
     攀枝花 <panzhihua>
-
 
 .. toctree::
     :caption: 根管理
