@@ -60,6 +60,19 @@
       - X
       - X
       - X
+    * - :ref:`litchi`
+      - X
+      - X
+      - X
+      - X
+      - √
+      - √
+      - √
+      - √
+      - X
+      - X
+      - X
+      - X
 
 
 .. toctree::
@@ -67,10 +80,12 @@
     :maxdepth: 1
 
     芒果 <mango>
+    荔枝 <litchi>
     樱桃 <cherry>
     树莓 <raspberry>
     玫瑰 <rose>
     绣球 <hydrangea>
+
 
 .. toctree::
     :caption: 跟时代
