@@ -2,9 +2,9 @@
 
 折耳根
 ===============
-``Generation`` ``Ze Gen`` ``Z世代`` ``折耳根``
+``Generation`` ``Zeer`` ``Z世代`` ``折耳根``
 
-**扎根大西南，与时代同步**
+**西南之根，抬头星空，低头花海**
 
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
     :target: https://github.com/zeergen/doc/actions
