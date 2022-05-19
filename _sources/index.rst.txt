@@ -2,9 +2,7 @@
 
 折耳根
 ===============
-``Generation`` ``Zeer`` ``Z世代`` ``折耳根``
-
-**西南之根，抬头星空，低头花海**
+**抬头星空，低头花海**
 
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
     :target: https://github.com/zeergen/doc/actions
@@ -19,7 +17,6 @@
     钦州 <qinzhou>
     攀枝花 <panzhihua>
 
-田园四季，馈赠连续
 
 .. list-table::
     :header-rows:  1
