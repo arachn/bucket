@@ -18,6 +18,39 @@
     钦州 <qinzhou>
     攀枝花 <panzhihua>
 
+田园四季，馈赠连续
+
+.. list-table::
+    :header-rows:  1
+
+    * -
+      - Jan
+      - Feb
+      - Mar
+      - Apr
+      - May
+      - June
+      - July
+      - Aug
+      - Sept
+      - Oct
+      - Nov
+      - Dec
+    * - :ref:`mango`
+      - X
+      - √
+      - √
+      - √
+      - √
+      - √
+      - √
+      - √
+      - √
+      - :ref:`kaite`
+      - X
+      - X
+
+
 .. toctree::
     :caption: 根管理
     :maxdepth: 1
@@ -36,3 +69,5 @@
     田园共享 <space>
     农用装备 <robot>
 
+.. hint::
+    当空间连接、信息连接和基础设施完善后，偏远将成为优势
