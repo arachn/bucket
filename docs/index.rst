@@ -14,6 +14,7 @@
     :maxdepth: 1
 
     昆明 <kunming>
+    重庆 <chongqing>
     白色 <baise>
     钦州 <qinzhou>
     攀枝花 <panzhihua>
@@ -29,10 +30,10 @@
       - Mar
       - Apr
       - May
-      - June
-      - July
+      - Jun
+      - Jul
       - Aug
-      - Sept
+      - Sep
       - Oct
       - Nov
       - Dec
@@ -47,6 +48,19 @@
       - √
       - √
       - :ref:`kaite`
+      - X
+      - X
+    * - :ref:`cherry`
+      - X
+      - X
+      - √
+      - √
+      - √
+      - √
+      - √
+      - √
+      - X
+      - X
       - X
       - X
 
