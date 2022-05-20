@@ -15,6 +15,7 @@
     重庆 <chongqing>
     白色 <baise>
     钦州 <qinzhou>
+    泸州 <luzhou>
     攀枝花 <panzhihua>
 
 
@@ -55,7 +56,7 @@
       - √
       - √
       - √
-      - √
+      - X
       - X
       - X
       - X
