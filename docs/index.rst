@@ -7,22 +7,11 @@
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
     :target: https://github.com/zeergen/doc/actions
 
-.. toctree::
-    :caption: 根空间
-    :maxdepth: 1
-
-    昆明 <kunming>
-    重庆 <chongqing>
-    白色 <baise>
-    钦州 <qinzhou>
-    泸州 <luzhou>
-    攀枝花 <panzhihua>
-
 
 .. list-table::
     :header-rows:  1
 
-    * -
+    * - 水果
       - Jan
       - Feb
       - Mar
@@ -74,6 +63,64 @@
       - X
       - X
       - X
+
+
+.. list-table::
+    :header-rows:  1
+
+    * - 花卉
+      - Jan
+      - Feb
+      - Mar
+      - Apr
+      - May
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Oct
+      - Nov
+      - Dec
+    * - :ref:`rose`
+      - X
+      - X
+      - √
+      - √
+      - √
+      - √
+      - √
+      - X
+      - X
+      - X
+      - X
+      - X
+    * - :ref:`hydrangea`
+      - X
+      - X
+      - X
+      - X
+      - √
+      - √
+      - √
+      - √
+      - X
+      - X
+      - X
+      - X
+
+.. toctree::
+    :caption: 根空间
+    :maxdepth: 1
+
+    昆明 <kunming>
+    重庆 <chongqing>
+    白色 <baise>
+    钦州 <qinzhou>
+    泸州 <luzhou>
+    攀枝花 <panzhihua>
+
+
+
 
 
 .. toctree::
