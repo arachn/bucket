@@ -109,7 +109,7 @@
       - X
 
 .. toctree::
-    :caption: 根空间
+    :caption: 根天下
     :maxdepth: 1
 
     昆明 <kunming>
@@ -120,11 +120,8 @@
     攀枝花 <panzhihua>
 
 
-
-
-
 .. toctree::
-    :caption: 根管理
+    :caption: 根众生
     :maxdepth: 1
 
     芒果 <mango>
