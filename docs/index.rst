@@ -40,10 +40,10 @@
     * - :ref:`cherry`
       - X
       - X
-      - √
-      - √
-      - √
-      - √
+      - X
+      - :ref:`cherry_zaohong`
+      - :ref:`cherry_hongdeng`
+      - :ref:`cherry_meizao`
       - √
       - X
       - X
@@ -136,7 +136,7 @@
 
 
 .. toctree::
-    :caption: 根众生
+    :caption: Gen根众生
     :maxdepth: 1
 
     芒果 <mango>
@@ -151,7 +151,7 @@
 **抬头星空，低头花海**
 
 .. toctree::
-    :caption: 根天下
+    :caption: Gen根天下
     :maxdepth: 1
 
     泛亚陆中心-昆明 <kunming>
@@ -164,7 +164,7 @@
 **西南高地，风景独好**
 
 .. toctree::
-    :caption: 跟时代
+    :caption: Gen跟时代
     :maxdepth: 1
 
     人居环境 <env>
