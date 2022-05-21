@@ -7,6 +7,7 @@
 
 .. contents::
     :local:
+    :depth: 1
 
 
 临时住宅

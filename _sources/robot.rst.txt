@@ -7,6 +7,7 @@
 
 .. contents::
     :local:
+    :depth: 1
 
 蛛网
 -----------

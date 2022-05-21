@@ -100,6 +100,8 @@
 
 .. contents::
     :local:
+    :depth: 1
+
 
 .. _sanyuehong:
 
