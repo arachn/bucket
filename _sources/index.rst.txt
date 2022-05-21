@@ -2,7 +2,7 @@
 
 折耳根
 ===============
-``Z世代田园规划``
+``Z世代地主+``
 
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
     :target: https://github.com/zeergen/doc/actions
@@ -63,7 +63,19 @@
       - X
       - X
       - X
-
+    * - :ref:`berry`
+      - X
+      - X
+      - √
+      - √
+      - √
+      - √
+      - √
+      - X
+      - X
+      - X
+      - X
+      - X
 
 .. list-table::
     :header-rows:  1
@@ -107,15 +119,28 @@
       - X
       - X
       - X
+    * - :ref:`succulent`
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
 
 .. toctree::
     :caption: 根天下
     :maxdepth: 1
 
-    昆明 <kunming>
-    重庆 <chongqing>
-    白色 <baise>
-    泸州 <luzhou>
+    泛亚陆中心-昆明 <kunming>
+    西南中转站-重庆 <chongqing>
+    西部第一城-成都 <chengdu>
+    酒香巷子深-泸州 <luzhou>
     西南出海口-钦州 <qinzhou>
     干热河谷-攀枝花 <panzhihua>
 
@@ -131,6 +156,8 @@
     浆果 <berry>
     玫瑰 <rose>
     绣球 <hydrangea>
+    多肉 <succulent>
+
 
 **抬头星空，低头花海**
 
@@ -139,7 +166,8 @@
     :maxdepth: 1
 
     环境改造 <env>
+    无人装备 <robot>
     田园共享 <space>
-    农用装备 <robot>
 
-**时代最大的福利，就是选择的机会**
+**时代福利，农业升级**
+
