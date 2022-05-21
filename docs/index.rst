@@ -2,7 +2,7 @@
 
 折耳根
 ===============
-**抬头星空，低头花海**
+``Z世代田园规划``
 
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
     :target: https://github.com/zeergen/doc/actions
@@ -53,11 +53,11 @@
     * - :ref:`litchi`
       - X
       - X
-      - X
-      - X
+      - :ref:`sanyuehong`
       - √
-      - √
-      - √
+      - :ref:`feizixiao`
+      - :ref:`nuomizi`
+      - :ref:`guiwei`
       - √
       - X
       - X
@@ -119,6 +119,7 @@
     西南出海口-钦州 <qinzhou>
     干热河谷-攀枝花 <panzhihua>
 
+**西南高地，风景独好**
 
 .. toctree::
     :caption: 根众生
@@ -127,10 +128,11 @@
     芒果 <mango>
     荔枝 <litchi>
     樱桃 <cherry>
-    树莓 <raspberry>
+    浆果 <berry>
     玫瑰 <rose>
     绣球 <hydrangea>
 
+**抬头星空，低头花海**
 
 .. toctree::
     :caption: 跟时代
@@ -140,5 +142,4 @@
     田园共享 <space>
     农用装备 <robot>
 
-.. hint::
-    当空间连接、信息连接和基础设施完善后，偏远将成为优势
+**时代最大的福利，就是选择的机会**
