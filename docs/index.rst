@@ -2,7 +2,7 @@
 
 折耳根
 ===============
-``Z世代地主+``
+``地主+`` ``一站式田园规划`` ``智慧农业`` ``诗意栖息``
 
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
     :target: https://github.com/zeergen/doc/actions
@@ -64,18 +64,19 @@
       - X
       - X
     * - :ref:`berry`
-      - X
-      - X
       - √
       - √
       - √
       - √
       - √
-      - X
-      - X
-      - X
-      - X
-      - X
+      - √
+      - :ref:`grape`
+      - √
+      - :ref:`kiwi`
+      - √
+      - √
+      - √
+
 
 .. list-table::
     :header-rows:  1
@@ -133,18 +134,6 @@
       -
       -
 
-.. toctree::
-    :caption: 根天下
-    :maxdepth: 1
-
-    泛亚陆中心-昆明 <kunming>
-    西南中转站-重庆 <chongqing>
-    西部第一城-成都 <chengdu>
-    酒香巷子深-泸州 <luzhou>
-    西南出海口-钦州 <qinzhou>
-    干热河谷-攀枝花 <panzhihua>
-
-**西南高地，风景独好**
 
 .. toctree::
     :caption: 根众生
@@ -160,6 +149,19 @@
 
 
 **抬头星空，低头花海**
+
+.. toctree::
+    :caption: 根天下
+    :maxdepth: 1
+
+    泛亚陆中心-昆明 <kunming>
+    西南中转站-重庆 <chongqing>
+    西部第一城-成都 <chengdu>
+    酒香巷子深-泸州 <luzhou>
+    西南出海口-钦州 <qinzhou>
+    干热河谷-攀枝花 <panzhihua>
+
+**西南高地，风景独好**
 
 .. toctree::
     :caption: 跟时代
