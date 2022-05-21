@@ -165,9 +165,9 @@
     :caption: 跟时代
     :maxdepth: 1
 
-    环境改造 <env>
-    无人装备 <robot>
-    田园共享 <space>
+    人居环境 <env>
+    农用装备 <robot>
+    空间运营 <space>
 
-**时代福利，农业升级**
+**地主福利，智能升级**
 
