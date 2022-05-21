@@ -11,7 +11,7 @@
 .. list-table::
     :header-rows:  1
 
-    * - 水果
+    * - 果蔬
       - Jan
       - Feb
       - Mar
@@ -68,7 +68,7 @@
 .. list-table::
     :header-rows:  1
 
-    * - 花卉
+    * - 花木
       - Jan
       - Feb
       - Mar
@@ -115,9 +115,9 @@
     昆明 <kunming>
     重庆 <chongqing>
     白色 <baise>
-    钦州 <qinzhou>
     泸州 <luzhou>
-    攀枝花 <panzhihua>
+    西南出海口-钦州 <qinzhou>
+    干热河谷-攀枝花 <panzhihua>
 
 
 .. toctree::
