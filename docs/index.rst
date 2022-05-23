@@ -24,6 +24,19 @@
       - Oct
       - Nov
       - Dec
+    * - :ref:`citrus`
+      - √
+      - √
+      - X
+      - X
+      - X
+      - X
+      - X
+      - √
+      - √
+      - √
+      - √
+      - √
     * - :ref:`mango`
       - X
       - √
@@ -139,9 +152,11 @@
     :caption: Gen根众生
     :maxdepth: 1
 
+    柑橘 <citrus>
     芒果 <mango>
     荔枝 <litchi>
     樱桃 <cherry>
+    桃李 <pppp>
     浆果 <berry>
     玫瑰 <rose>
     绣球 <hydrangea>
