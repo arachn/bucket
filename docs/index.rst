@@ -2,107 +2,11 @@
 
 折耳根
 ===============
-``地主+`` ``一站式田园规划`` ``智慧农业`` ``诗意栖息``
+``地主+`` ``一站式田园`` ``智慧农业`` ``星空与花海``
+
 
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
     :target: https://github.com/zeergen/doc/actions
-
-
-.. list-table::
-    :header-rows:  1
-
-    * - 果蔬
-      - Jan
-      - Feb
-      - Mar
-      - Apr
-      - May
-      - Jun
-      - Jul
-      - Aug
-      - Sep
-      - Oct
-      - Nov
-      - Dec
-    * - :ref:`citrus`
-      - √
-      - √
-      - X
-      - X
-      - X
-      - X
-      - X
-      - √
-      - √
-      - √
-      - √
-      - √
-    * - :ref:`pppp`
-      - X
-      - X
-      - :ref:`pipa`
-      - √
-      - √
-      - :ref:`peach`
-      - √
-      - :ref:`plum`
-      - √
-      - √
-      - :ref:`persimmon`
-      - √
-    * - :ref:`mango`
-      - X
-      - √
-      - √
-      - √
-      - √
-      - √
-      - √
-      - √
-      - √
-      - :ref:`kaite`
-      - X
-      - X
-    * - :ref:`cherry`
-      - X
-      - X
-      - X
-      - :ref:`cherry_zaohong`
-      - :ref:`cherry_hongdeng`
-      - :ref:`cherry_meizao`
-      - √
-      - X
-      - X
-      - X
-      - X
-      - X
-    * - :ref:`litchi`
-      - X
-      - X
-      - :ref:`sanyuehong`
-      - √
-      - :ref:`feizixiao`
-      - :ref:`nuomizi`
-      - :ref:`guiwei`
-      - √
-      - X
-      - X
-      - X
-      - X
-    * - :ref:`berry`
-      - √
-      - √
-      - √
-      - √
-      - √
-      - √
-      - :ref:`grape`
-      - √
-      - :ref:`kiwi`
-      - √
-      - √
-      - √
-
 
 .. list-table::
     :header-rows:  1
@@ -161,11 +65,112 @@
       -
 
 
+
+
+.. list-table::
+    :header-rows:  1
+
+    * - 果蔬
+      - Jan
+      - Feb
+      - Mar
+      - Apr
+      - May
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Oct
+      - Nov
+      - Dec
+    * - :ref:`citrus`
+      - :ref:`orange`
+      - √
+      - :ref:`chouju`
+      - √
+      - X
+      - X
+      - X
+      - :ref:`madarine`
+      - √
+      - :ref:`shaddock`
+      - :ref:`lemon`
+      - :ref:`chunjian`
+    * - :ref:`pppp`
+      - :ref:`jujube`
+      - √
+      - :ref:`pipa`
+      - √
+      - √
+      - :ref:`peach`
+      - √
+      - :ref:`plum`
+      - √
+      - √
+      - :ref:`persimmon`
+      - √
+    * - :ref:`mango`
+      - X
+      - √
+      - √
+      - √
+      - √
+      - √
+      - √
+      - √
+      - √
+      - :ref:`kaite`
+      - X
+      - X
+    * - :ref:`cherry`
+      - :ref:`Cherries`
+      - √
+      - X
+      - :ref:`cherry_zaohong`
+      - :ref:`cherry_hongdeng`
+      - :ref:`cherry_meizao`
+      - √
+      - X
+      - X
+      - X
+      - X
+      - X
+    * - :ref:`litchi`
+      - X
+      - X
+      - :ref:`sanyuehong`
+      - √
+      - :ref:`feizixiao`
+      - :ref:`nuomizi`
+      - :ref:`guiwei`
+      - √
+      - X
+      - X
+      - X
+      - X
+    * - :ref:`berry`
+      - :ref:`fig`
+      - √
+      - :ref:`mulberry`
+      - √
+      - √
+      - √
+      - :ref:`grape`
+      - √
+      - :ref:`kiwi`
+      - √
+      - √
+      - √
+
+
+
+
+
 .. toctree::
     :caption: Gen根众生
     :maxdepth: 1
 
-    柑橘 <citrus>
+    柑桔 <citrus>
     芒果 <mango>
     荔枝 <litchi>
     樱桃 <cherry>
@@ -176,7 +181,6 @@
     多肉 <succulent>
 
 
-**星空与花海**
 
 .. toctree::
     :caption: Gen根天下
