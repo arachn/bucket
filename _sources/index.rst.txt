@@ -12,26 +12,50 @@
     :header-rows:  1
 
     * - 花草
-      - spring
-      - summer
-      - autumn
-      - winter
-    * - :ref:`rose`
+      - 白
+      - 红
+      - 橘
+      - 粉
+      - 橙
+      - 黄
+      - 蓝
+      - 紫
+    * - spring
       - √
       - √
       - √
-      - √
-    * - :ref:`hydrangea`
+      - :ref:`rose_daianna`
+      -
+      -
+      -
+      -
+    * - summer
+      -
+      -
       -
       - :ref:`fensejiaren`
+      -
+      -
       - :ref:`wujinxia`
       -
-    * - :ref:`succulent`
+    * - autumn
       -
       -
       -
       -
-
+      -
+      -
+      -
+      -
+    * - winter
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+      -
 
 .. list-table::
     :header-rows:  1
