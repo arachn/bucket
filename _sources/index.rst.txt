@@ -14,8 +14,8 @@
     * - 花草
       - 白
       - 红
-      - 橘
       - 粉
+      - 橙
       - 黄
       - 绿
       - 蓝
@@ -24,18 +24,18 @@
     * - :ref:`rose`
       - :ref:`rose_tineke`
       - :ref:`rose_kaluola`
-      - √
       - :ref:`rose_daianna`
-      - √
+      -
       - √
       - √
       - √
       - :ref:`rose_haiyang`
+      -
     * - :ref:`hydrangea`
       - :ref:`wujinxia_xl`
       - :ref:`meihongmm`
-      -
       - :ref:`fenbei`
+      -
       -
       - :ref:`muxiuqiu`
       - :ref:`wujinxia`
