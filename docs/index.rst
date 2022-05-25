@@ -182,9 +182,9 @@
     :caption: Gen跟时代
     :maxdepth: 1
 
-    农舍建设 <house>
+    归园田居 <house>
     农场运营 <farm>
-    智慧乡村 <village>
+    乡村振兴 <village>
 
 **地主福利，智能升级**
 
