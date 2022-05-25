@@ -16,21 +16,21 @@
       - 红
       - 橘
       - 粉
-      - 橙
       - 黄
+      - 绿
       - 蓝
       - 紫
     * - spring
-      - √
-      - √
+      - :ref:`rose_tineke`
+      - :ref:`rose_kaluola`
       - √
       - :ref:`rose_daianna`
-      -
-      -
-      -
-      -
+      - √
+      - √
+      - √
+      - √
     * - summer
-      -
+      - :ref:`rose_tineke`
       -
       -
       - :ref:`fensejiaren`
@@ -39,7 +39,7 @@
       - :ref:`wujinxia`
       -
     * - autumn
-      -
+      - :ref:`rose_tineke`
       -
       -
       -
