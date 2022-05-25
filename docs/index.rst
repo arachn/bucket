@@ -12,59 +12,25 @@
     :header-rows:  1
 
     * - 花草
-      - Jan
-      - Feb
-      - Mar
-      - Apr
-      - May
-      - Jun
-      - Jul
-      - Aug
-      - Sep
-      - Oct
-      - Nov
-      - Dec
+      - spring
+      - summer
+      - autumn
+      - winter
     * - :ref:`rose`
-      - X
-      - X
-      - X
       - √
       - √
       - √
       - √
-      - √
-      - X
-      - X
-      - X
-      - X
     * - :ref:`hydrangea`
-      - X
-      - X
-      - X
-      - X
-      - √
-      - √
-      - √
-      - √
-      - X
-      - X
-      - X
-      - X
+      -
+      - :ref:`fensejiaren`
+      - :ref:`wujinxia`
+      -
     * - :ref:`succulent`
       -
       -
       -
       -
-      -
-      -
-      -
-      -
-      -
-      -
-      -
-      -
-
-
 
 
 .. list-table::
@@ -91,7 +57,7 @@
       -
       -
       - :ref:`miju`
-      - :ref:`shaddock`
+      - :ref:`shatianyou`
       - :ref:`kumquat`
       - :ref:`chunjian`
     * - :ref:`jujube`
