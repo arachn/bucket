@@ -70,8 +70,7 @@
 .. list-table::
     :header-rows:  1
 
-    * - 果蔬
-      - Jan
+    * - Jan
       - Feb
       - Mar
       - Apr
@@ -83,21 +82,19 @@
       - Oct
       - Nov
       - Dec
-    * - :ref:`citrus`
-      - :ref:`orange`
+    * - :ref:`orange`
       - √
       - :ref:`chouju`
       - √
-      - X
-      - X
-      - X
-      - :ref:`madarine`
-      - √
+      - :ref:`wogan`
+      -
+      -
+      -
+      - :ref:`miju`
       - :ref:`shaddock`
-      - :ref:`lemon`
+      - :ref:`kumquat`
       - :ref:`chunjian`
-    * - :ref:`pppp`
-      - :ref:`jujube`
+    * - :ref:`jujube`
       - √
       - :ref:`pipa`
       - √
@@ -109,8 +106,7 @@
       - √
       - :ref:`persimmon`
       - √
-    * - :ref:`mango`
-      - X
+    * - X
       - √
       - √
       - √
@@ -122,8 +118,7 @@
       - :ref:`kaite`
       - X
       - X
-    * - :ref:`cherry`
-      - :ref:`Cherries`
+    * - :ref:`Cherries`
       - √
       - X
       - :ref:`cherry_zaohong`
@@ -135,8 +130,7 @@
       - X
       - X
       - X
-    * - :ref:`litchi`
-      - X
+    * - X
       - X
       - :ref:`sanyuehong`
       - √
@@ -148,8 +142,7 @@
       - X
       - X
       - X
-    * - :ref:`berry`
-      - :ref:`fig`
+    * - :ref:`fig`
       - √
       - :ref:`mulberry`
       - √
@@ -198,6 +191,6 @@
     :maxdepth: 1
 
     归园田居 <house>
-    农场庄园 <farm>
-    智慧乡村 <village>
+    农场经济 <farm>
+    乡村振兴 <village>
 
