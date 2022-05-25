@@ -2,7 +2,7 @@
 
 折耳根
 ===============
-``地主+`` ``一站式田园`` ``智慧农业`` ``星空与花海``
+``智慧农业`` ``星空与花海`` ``地主plus``
 
 
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
@@ -25,10 +25,10 @@
       - :ref:`rose_tineke`
       - :ref:`rose_kaluola`
       - :ref:`rose_daianna`
+      - :ref:`rose_jrgz`
       -
-      - √
-      - √
-      - √
+      -
+      -
       - :ref:`rose_haiyang`
       -
     * - :ref:`hydrangea`
