@@ -182,9 +182,9 @@
     :caption: Gen跟时代
     :maxdepth: 1
 
-    人居环境 <env>
-    农用装备 <robot>
-    空间运营 <space>
+    农舍建设 <house>
+    农场运营 <farm>
+    智慧乡村 <village>
 
 **地主福利，智能升级**
 
