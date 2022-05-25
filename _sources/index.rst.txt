@@ -20,7 +20,8 @@
       - 绿
       - 蓝
       - 紫
-    * - spring
+      - 黑
+    * - :ref:`rose`
       - :ref:`rose_tineke`
       - :ref:`rose_kaluola`
       - √
@@ -29,17 +30,18 @@
       - √
       - √
       - √
-    * - summer
-      - :ref:`rose_tineke`
-      -
-      -
-      - :ref:`fensejiaren`
-      -
-      -
-      - :ref:`wujinxia`
       - :ref:`rose_haiyang`
-    * - autumn
-      - :ref:`rose_tineke`
+    * - :ref:`hydrangea`
+      - :ref:`wujinxia_xl`
+      - :ref:`meihongmm`
+      -
+      - :ref:`fenbei`
+      -
+      - :ref:`muxiuqiu`
+      - :ref:`wujinxia`
+      - :ref:`taiyangshen`
+      -
+    * - :ref:`succulent`
       -
       -
       -
@@ -47,15 +49,9 @@
       -
       -
       -
-    * - winter
       -
       -
-      -
-      -
-      -
-      -
-      -
-      -
+
 
 .. list-table::
     :header-rows:  1
