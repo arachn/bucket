@@ -37,7 +37,7 @@
       -
       -
       - :ref:`wujinxia`
-      -
+      - :ref:`rose_haiyang`
     * - autumn
       - :ref:`rose_tineke`
       -
@@ -72,7 +72,7 @@
       - Oct
       - Nov
       - Dec
-    * - :ref:`orange`
+    * - :ref:`qicheng`
       - √
       - :ref:`chouju`
       - √
