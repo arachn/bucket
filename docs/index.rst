@@ -37,6 +37,19 @@
       - √
       - √
       - √
+    * - :ref:`pppp`
+      - X
+      - X
+      - X
+      - :ref:`pipa`
+      - √
+      - :ref:`peach`
+      - √
+      - :ref:`pear`
+      - :ref:`plum`
+      - √
+      - :ref:`persimmon`
+      - √
     * - :ref:`mango`
       - X
       - √
@@ -94,7 +107,7 @@
 .. list-table::
     :header-rows:  1
 
-    * - 花木
+    * - 花草
       - Jan
       - Feb
       - Mar
@@ -163,7 +176,7 @@
     多肉 <succulent>
 
 
-**抬头星空，低头花海**
+**星空与花海**
 
 .. toctree::
     :caption: Gen根天下
@@ -176,8 +189,6 @@
     西南出海口-钦州 <qinzhou>
     干热河谷-攀枝花 <panzhihua>
 
-**西南高地，风景独好**
-
 .. toctree::
     :caption: Gen跟时代
     :maxdepth: 1
@@ -185,6 +196,4 @@
     归园田居 <house>
     农场庄园 <farm>
     智慧乡村 <village>
-
-**地主福利，智能升级**
 
