@@ -40,13 +40,13 @@
     * - :ref:`pppp`
       - X
       - X
-      - X
       - :ref:`pipa`
+      - √
       - √
       - :ref:`peach`
       - √
-      - :ref:`pear`
       - :ref:`plum`
+      - √
       - √
       - :ref:`persimmon`
       - √
