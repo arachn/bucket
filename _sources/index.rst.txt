@@ -135,10 +135,9 @@
     :caption: 根时代
     :maxdepth: 1
 
-    归园田居 <house>
-    农场经济 <farm>
     乡村振兴 <village>
-
+    农场经济 <farm>
+    归园田居 <house>
 
 .. toctree::
     :caption: 根天下
