@@ -61,7 +61,7 @@
       - :ref:`fig`
     * - Feb
       - √
-      - √
+      - :ref:`guifei`
       - X
       - X
       - X
@@ -70,13 +70,13 @@
       - :ref:`chouju`
       - :ref:`pipa`
       - X
-      -
+      - X
       - :ref:`sanyuehong`
       - :ref:`mulberry`
     * - Apr
       - √
       - √
-      - :ref:`guifei`
+      - √
       - :ref:`cherry_zaohong`
       - √
       - √
@@ -90,7 +90,7 @@
     * - Jun
       - √
       - :ref:`cherryplum`
-      -
+      - √
       - :ref:`cherry_meizao`
       - :ref:`nuomizi`
       - √
@@ -98,7 +98,7 @@
       - √
       - :ref:`qingcui`
       - :ref:`jinhuang`
-      -
+      - √
       - :ref:`guiwei`
       - :ref:`grape`
     * - Aug
