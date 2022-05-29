@@ -11,7 +11,7 @@
 .. list-table::
     :header-rows:  1
 
-    * - :ref:`rose`
+    * - 黑
       - 白
       - 红
       - 粉
