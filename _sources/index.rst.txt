@@ -110,28 +110,28 @@
       - √
     * - Sep
       - :ref:`miju`
-      - √
+      - :ref:`granada`
       - :ref:`redmango`
       - X
       - √
       - :ref:`kiwi`
     * - Oct
       - :ref:`shatianyou`
-      - √
+      - :ref:`pantao`
       - :ref:`kaite`
       - X
       - X
       - √
     * - Nov
       - :ref:`kumquat`
-      - :ref:`yueshi`
+      - :ref:`dongtao`
       - √
       - X
       - X
       - √
     * - Dec
       - :ref:`chunjian`
-      - √
+      - :ref:`yueshi`
       - X
       - X
       - X
