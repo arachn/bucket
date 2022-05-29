@@ -7,6 +7,30 @@
 
 玫瑰花是是世界著名的观赏植物之一，花朵直径在4-5.5cn左右，花瓣为倒卵形，花朵为重瓣至半重瓣，具有香味。原产中国华北以及日本和朝鲜，北美和欧洲各地均有栽培。
 
+
+.. list-table::
+    :header-rows:  1
+
+    * - :ref:`rose`
+      - 白
+      - 红
+      - 粉
+      - 橙
+      - 黄
+      - 绿
+      - 蓝
+      - 紫
+    * -
+      - :ref:`rose_tineke`
+      - :ref:`rose_kaluola`
+      - :ref:`rose_daianna`
+      - :ref:`rose_jrgz`
+      -
+      -
+      -
+      - :ref:`rose_haiyang`
+
+
 .. contents::
     :local:
     :depth: 1
@@ -26,7 +50,7 @@
 
 .. contents::
     :local:
-
+    :depth: 1
 
 .. _rose_tineke:
 
