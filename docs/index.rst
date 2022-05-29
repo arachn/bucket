@@ -56,62 +56,62 @@
       - :ref:`qicheng`
       - :ref:`jujube`
       - X
-      - :ref:`Cherries`
+      - X
       - X
       - :ref:`fig`
     * - Feb
       - √
       - √
       - X
-      - √
+      - X
       - X
       - √
     * - Mar
       - :ref:`chouju`
       - :ref:`pipa`
       - X
-      - X
+      -
       - :ref:`sanyuehong`
       - :ref:`mulberry`
     * - Apr
       - √
       - √
-      - √
+      - :ref:`guifei`
       - :ref:`cherry_zaohong`
       - √
       - √
     * - May
       - :ref:`wogan`
-      - √
-      - √
+      - :ref:`blackplum`
+      - :ref:`tainong`
       - :ref:`cherry_hongdeng`
       - :ref:`feizixiao`
-      - √
+      - :ref:`blueberry`
     * - Jun
       - √
-      - √
-      - √
+      - :ref:`cherryplum`
+      -
       - :ref:`cherry_meizao`
       - :ref:`nuomizi`
       - √
     * - Jul
       - √
-      - √
-      - √
+      - :ref:`qingcui`
+      - :ref:`jinhuang`
       -
       - :ref:`guiwei`
       - :ref:`grape`
     * - Aug
       - √
       - √
-      - √
+      - :ref:`jilu`
       - X
       - √
       - √
     * - Sep
       - :ref:`miju`
       - √
-      - X
+      - :ref:`redmango`
       - X
       - √
       - :ref:`kiwi`
@@ -124,7 +124,7 @@
       - √
     * - Nov
       - :ref:`kumquat`
-      - √
+      - :ref:`yueshi`
       - √
       - X
       - X
