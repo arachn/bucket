@@ -8,10 +8,12 @@
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
     :target: https://github.com/zeergen/doc/actions
 
+
+
 .. list-table::
     :header-rows:  1
 
-    * - 花草
+    * - 花园
       - 白
       - 红
       - 粉
@@ -20,7 +22,6 @@
       - 绿
       - 蓝
       - 紫
-      - 黑
     * - :ref:`rose`
       - :ref:`rose_tineke`
       - :ref:`rose_kaluola`
@@ -30,7 +31,6 @@
       -
       -
       - :ref:`rose_haiyang`
-      -
     * - :ref:`hydrangea`
       - :ref:`wujinxia_xl`
       - :ref:`meihongmm`
@@ -40,17 +40,6 @@
       - :ref:`muxiuqiu`
       - :ref:`wujinxia`
       - :ref:`taiyangshen`
-      -
-    * - :ref:`succulent`
-      -
-      -
-      -
-      -
-      -
-      -
-      -
-      -
-      -
 
 
 .. list-table::
@@ -142,11 +131,29 @@
       - √
 
 
+.. toctree::
+    :caption: 根时代
+    :maxdepth: 1
 
+    归园田居 <house>
+    农场经济 <farm>
+    乡村振兴 <village>
 
 
 .. toctree::
-    :caption: Gen根众生
+    :caption: 根天下
+    :maxdepth: 1
+
+    泛亚陆中心-昆明 <kunming>
+    西南中转站-重庆 <chongqing>
+    西部第一城-成都 <chengdu>
+    酒香巷子深-泸州 <luzhou>
+    西南出海口-钦州 <qinzhou>
+    干热河谷-攀枝花 <panzhihua>
+
+
+.. toctree::
+    :caption: 根众生
     :maxdepth: 1
 
     柑桔 <citrus>
@@ -161,22 +168,5 @@
 
 
 
-.. toctree::
-    :caption: Gen根天下
-    :maxdepth: 1
-
-    泛亚陆中心-昆明 <kunming>
-    西南中转站-重庆 <chongqing>
-    西部第一城-成都 <chengdu>
-    酒香巷子深-泸州 <luzhou>
-    西南出海口-钦州 <qinzhou>
-    干热河谷-攀枝花 <panzhihua>
-
-.. toctree::
-    :caption: Gen跟时代
-    :maxdepth: 1
-
-    归园田居 <house>
-    农场经济 <farm>
-    乡村振兴 <village>
-
+.. image:: _static/images/all.png
+    :target: https://www.zeergen.com
