@@ -19,6 +19,18 @@
     归园田居 <house>
 
 
+
+.. toctree::
+    :caption: 根天下
+    :maxdepth: 1
+
+    泛亚陆中心-昆明 <kunming>
+    西南中转站-重庆 <chongqing>
+    西部第一城-成都 <chengdu>
+    避暑之都-贵阳 <guiyang>
+    西南出海口-钦州 <qinzhou>
+    干热河谷-攀枝花 <panzhihua>
+
 .. list-table::
     :header-rows:  1
 
@@ -26,9 +38,9 @@
       - :ref:`kunming`
       - :ref:`chengdu`
       - :ref:`chongqing`
-      - :ref:`qinzhou`
+      - :ref:`guiyang`
       - :ref:`panzhihua`
-      - :ref:`luzhou`
+      - :ref:`qinzhou`
     * - Jan
       -
       -
@@ -114,17 +126,20 @@
       -
       -
 
+
 .. toctree::
-    :caption: 根天下
+    :caption: 根众生
     :maxdepth: 1
 
-    泛亚陆中心-昆明 <kunming>
-    西南中转站-重庆 <chongqing>
-    西部第一城-成都 <chengdu>
-    酒香巷子深-泸州 <luzhou>
-    西南出海口-钦州 <qinzhou>
-    干热河谷-攀枝花 <panzhihua>
-
+    柑桔 <citrus>
+    芒果 <mango>
+    荔枝 <litchi>
+    樱桃 <cherry>
+    桃李 <pppp>
+    浆果 <berry>
+    玫瑰 <rose>
+    绣球 <hydrangea>
+    多肉 <succulent>
 
 .. list-table::
     :header-rows:  1
@@ -221,20 +236,6 @@
       - X
       - √
 
-.. toctree::
-    :caption: 根众生
-    :maxdepth: 1
-
-    柑桔 <citrus>
-    芒果 <mango>
-    荔枝 <litchi>
-    樱桃 <cherry>
-    桃李 <pppp>
-    浆果 <berry>
-    玫瑰 <rose>
-    绣球 <hydrangea>
-    多肉 <succulent>
-
 
 .. list-table::
     :header-rows:  1
@@ -266,7 +267,3 @@
       - :ref:`muxiuqiu`
       - :ref:`wujinxia`
       - :ref:`taiyangshen`
-
-
-.. image:: _static/images/all.png
-    :target: https://www.zeergen.com
