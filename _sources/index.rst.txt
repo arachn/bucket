@@ -21,7 +21,7 @@
 .. list-table::
     :header-rows:  1
 
-    * - 门卫
+    * - 服务员
       - 白
       - 红
       - 粉
@@ -35,7 +35,7 @@
       - :ref:`rose_kaluola`
       - :ref:`rose_daianna`
       - :ref:`rose_jrgz`
-      -
+      - :ref:`rose_jxy`
       -
       -
       - :ref:`rose_haiyang`
