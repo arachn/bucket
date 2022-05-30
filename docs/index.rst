@@ -62,14 +62,14 @@
     * - Feb
       - √
       - √
-      - :ref:`guifei`
+      - X
       - X
       - X
       - √
     * - Mar
       - :ref:`chouju`
       - :ref:`pipa`
-      - X
+      - :ref:`guifei`
       - √
       - :ref:`sanyuehong`
       - :ref:`mulberry`
