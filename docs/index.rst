@@ -112,14 +112,14 @@
       - :ref:`miju`
       - :ref:`granada`
       - :ref:`redmango`
-      - X
+      - :ref:`Cherries`
       - √
       - :ref:`kiwi`
     * - Oct
       - :ref:`shatianyou`
       - :ref:`pantao`
       - :ref:`kaite`
-      - X
+      - √
       - X
       - √
     * - Nov
@@ -127,7 +127,7 @@
       - :ref:`dongtao`
       - √
       - X
-      - X
+      - √
       - √
     * - Dec
       - :ref:`chunjian`
