@@ -18,6 +18,36 @@
     农场经济 <farm>
     归园田居 <house>
 
+.. list-table::
+    :header-rows:  1
+
+    * - 门卫
+      - 白
+      - 红
+      - 粉
+      - 橙
+      - 黄
+      - 绿
+      - 蓝
+      - 紫
+    * - :ref:`rose`
+      - :ref:`rose_tineke`
+      - :ref:`rose_kaluola`
+      - :ref:`rose_daianna`
+      - :ref:`rose_jrgz`
+      -
+      -
+      -
+      - :ref:`rose_haiyang`
+    * - :ref:`hydrangea`
+      - :ref:`wujinxia_xl`
+      - :ref:`meihongmm`
+      - :ref:`fenbei`
+      -
+      -
+      - :ref:`muxiuqiu`
+      - :ref:`wujinxia`
+      - :ref:`taiyangshen`
 
 
 .. toctree::
@@ -34,7 +64,7 @@
 .. list-table::
     :header-rows:  1
 
-    * - 目的地
+    * - 行程表
       - :ref:`kunming`
       - :ref:`chengdu`
       - :ref:`chongqing`
@@ -237,33 +267,3 @@
       - √
 
 
-.. list-table::
-    :header-rows:  1
-
-    * - 花园
-      - 白
-      - 红
-      - 粉
-      - 橙
-      - 黄
-      - 绿
-      - 蓝
-      - 紫
-    * - :ref:`rose`
-      - :ref:`rose_tineke`
-      - :ref:`rose_kaluola`
-      - :ref:`rose_daianna`
-      - :ref:`rose_jrgz`
-      -
-      -
-      -
-      - :ref:`rose_haiyang`
-    * - :ref:`hydrangea`
-      - :ref:`wujinxia_xl`
-      - :ref:`meihongmm`
-      - :ref:`fenbei`
-      -
-      -
-      - :ref:`muxiuqiu`
-      - :ref:`wujinxia`
-      - :ref:`taiyangshen`
