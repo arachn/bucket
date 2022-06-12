@@ -2,7 +2,7 @@
 
 折耳根
 ===============
-``智慧农业`` ``乡村服务`` ``农场品牌`` ``星空花海`` ``地主plus``
+``智慧农业`` ``乡村服务`` ``农场品牌`` ``田园生活`` ``星空花海`` ``地主plus``
 
 
 .. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
