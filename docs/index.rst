@@ -57,7 +57,6 @@
     泛亚陆中心-昆明 <kunming>
     西南中转站-重庆 <chongqing>
     西部第一城-成都 <chengdu>
-    避暑之都-贵阳 <guiyang>
     西南出海口-钦州 <qinzhou>
     干热河谷-攀枝花 <panzhihua>
 
@@ -68,11 +67,9 @@
       - :ref:`kunming`
       - :ref:`chengdu`
       - :ref:`chongqing`
-      - :ref:`guiyang`
       - :ref:`panzhihua`
       - :ref:`qinzhou`
     * - Jan
-      -
       -
       -
       -
@@ -84,9 +81,7 @@
       -
       -
       -
-      -
     * - Mar
-      -
       -
       -
       -
@@ -98,9 +93,7 @@
       -
       -
       -
-      -
     * - May
-      -
       -
       -
       -
@@ -112,9 +105,7 @@
       -
       -
       -
-      -
     * - Jul
-      -
       -
       -
       -
@@ -126,9 +117,7 @@
       -
       -
       -
-      -
     * - Sep
-      -
       -
       -
       -
@@ -140,16 +129,13 @@
       -
       -
       -
-      -
     * - Nov
       -
       -
       -
       -
       -
-      -
     * - Dec
-      -
       -
       -
       -
