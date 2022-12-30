@@ -2,12 +2,7 @@
 
 折耳根
 ===============
-``智慧农业`` ``乡村服务`` ``农场品牌`` ``田园生活`` ``星空花海`` ``地主plus``
-
-
-.. image:: https://github.com/zeergen/doc/workflows/build/badge.svg
-    :target: https://github.com/zeergen/doc/actions
-
+``智慧农业`` ``田园生活`` ``星空花海`` ``地主plus``
 
 
 .. toctree::
@@ -21,7 +16,7 @@
 .. list-table::
     :header-rows:  1
 
-    * - 服务员
+    * -
       - 白
       - 红
       - 粉
@@ -57,90 +52,7 @@
     泛亚陆中心-昆明 <kunming>
     西南中转站-重庆 <chongqing>
     西部第一城-成都 <chengdu>
-    西南出海口-钦州 <qinzhou>
     干热河谷-攀枝花 <panzhihua>
-
-.. list-table::
-    :header-rows:  1
-
-    * - 行程表
-      - :ref:`kunming`
-      - :ref:`chengdu`
-      - :ref:`chongqing`
-      - :ref:`panzhihua`
-      - :ref:`qinzhou`
-    * - Jan
-      -
-      -
-      -
-      -
-      -
-    * - Feb
-      -
-      -
-      -
-      -
-      -
-    * - Mar
-      -
-      -
-      -
-      -
-      -
-    * - Apr
-      -
-      -
-      -
-      -
-      -
-    * - May
-      -
-      -
-      -
-      -
-      -
-    * - Jun
-      -
-      -
-      -
-      -
-      -
-    * - Jul
-      -
-      -
-      -
-      -
-      -
-    * - Aug
-      -
-      -
-      -
-      -
-      -
-    * - Sep
-      -
-      -
-      -
-      -
-      -
-    * - Oct
-      -
-      -
-      -
-      -
-      -
-    * - Nov
-      -
-      -
-      -
-      -
-      -
-    * - Dec
-      -
-      -
-      -
-      -
-      -
 
 
 .. toctree::
@@ -160,7 +72,7 @@
 .. list-table::
     :header-rows:  1
 
-    * - 值班表
+    * -
       - :ref:`citrus`
       - :ref:`pppp`
       - :ref:`mango`
